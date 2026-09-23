@@ -1,0 +1,100 @@
+Arroz;5.50
+Feijao;7.20
+Acucar;4.30
+Sal;2.10
+Oleo;6.80
+Cafe;14.50
+Farinha de trigo;4.90
+Macarrao;3.80
+Molho de tomate;2.90
+Milho de pipoca;4.50
+Banana;5.50
+Maca;8.90
+Laranja;4.80
+Tomate;7.50
+Cebola;5.90
+Alho;4.00
+Batata;6.50
+Cenoura;5.20
+Alface;3.50
+Limao;4.50
+Abacaxi;6.90
+Melancia;14.00
+Abobora;4.80
+Abobrinha;5.50
+Pimentao;7.20
+Pao frances;3.00
+Leite;4.60
+Manteiga;9.80
+Queijo;14.90
+Presunto;11.50
+Iogurte;3.20
+Creme de leite;3.40
+Leite condensado;5.20
+Requeijao;7.90
+Margarina;5.80
+Pao de forma;7.30
+Ovos;11.80
+Frango;17.50
+Carne bovina;34.90
+Carne suina;21.80
+Peixe;27.50
+Linguica;16.90
+Salsicha;9.50
+Biscoito doce;3.40
+Biscoito salgado;3.80
+Achocolatado;7.90
+Cereal;11.50
+Gelatina;1.80
+Bolo;10.50
+Mel;14.00
+Geleia;8.90
+Refrigerante;7.50
+Suco;5.80
+Agua mineral;2.20
+Cha;4.50
+Agua de coco;6.50
+Atum;6.80
+Sardinha;4.20
+Milho;3.40
+Ervilha;3.20
+Extrato de tomate;3.80
+Maionese;6.50
+Ketchup;5.90
+Mostarda;4.80
+Azeite;32.00
+Vinagre;2.80
+Farofa;4.80
+Batata palha;5.50
+Pipoca;3.80
+Trigo para quibe;5.90
+Canjica;3.80
+Lentilha;7.50
+Grao de bico;8.50
+Fermento;4.20
+Aveia;4.80
+Detergente;2.40
+Sabao em po;13.80
+Amaciante;10.50
+Desinfetante;5.80
+Agua sanitaria;3.90
+Esponja;1.80
+Palha de aco;2.80
+Saco de lixo;7.50
+Sabao em barra;5.90
+Limpador multiuso;4.80
+Desodorizador;7.50
+Pano de prato;4.50
+Papel higienico;11.90
+Sabonete;2.30
+Creme dental;3.80
+Escova de dentes;5.50
+Shampoo;13.50
+Condicionador;15.20
+Desodorante;11.80
+Fio dental;6.50
+Algodao;3.80
+Hastes flexiveis;4.50
+Absorvente;5.80
+Espuma de barbear;14.50
+Aparelho de barbear;7.90
